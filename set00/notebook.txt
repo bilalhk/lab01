@@ -1,0 +1,5 @@
+Date  Who	Start  Stop  Interruptions  Question   TimeOnTask		Comments
+1/12  BK	1905   2037	20	    racketlab       72   		 The time was spend doing the first 10 											 racketlab exercises, and figuring out
+										 the details for homework folders and
+										 laboratory notebook
+========================commiting to git: 1/12 20:42=============================		
